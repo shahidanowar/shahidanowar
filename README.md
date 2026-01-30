@@ -45,8 +45,7 @@ I am a final year software engineering student focused on building reliable, sca
 ---
 
 ## GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahidanowar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidanowar&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahidanowar)](https://git.io/streak-stats)
 
 ---
 
