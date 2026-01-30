@@ -1,67 +1,67 @@
-# 👋 Hi, I'm Shahid Anowar
+# Shahid Anowar
 
-🚀 Builder | 💻 Software Engineer | 🤖 AI Enthusiast
+Software Engineering Student | Full-Stack Developer | AI & Automation Enthusiast
 
-I like turning ideas into products and shipping things fast.  
-Currently exploring **AI-powered apps, web platforms, and developer tools**.
-
----
-
-## 🧠 What I’m Working On
-- Building products in public  
-- AI-driven tools & automation  
-- Full-stack web apps  
-- Learning system design & scalable architectures  
+I am a final year software engineering student focused on building reliable, scalable, and user-centric applications. I enjoy working across the stack, experimenting with AI-powered systems, and turning ideas into production-ready products.
 
 ---
 
-## 🛠 Tech Stack
-**Languages**
-- JavaScript / TypeScript
-- Python
-- C / C++
-
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-- REST APIs
-
-**Databases & Infra**
-- PostgreSQL
-- Supabase
-- Firebase
-- Vercel
-
-**Tools**
-- Git & GitHub
-- Docker (learning)
-- Linux
+## Current Focus
+- Building and shipping real-world projects  
+- Full-stack web development  
+- AI-driven applications and automation  
+- Learning scalable system design  
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+## Technical Skills
+
+### Programming Languages
+- JavaScript / TypeScript  
+- Python  
+- C / C++  
+
+### Frontend
+- React  
+- Next.js  
+- Tailwind CSS  
+
+### Backend
+- Node.js  
+- Express  
+- RESTful APIs  
+
+### Databases & Infrastructure
+- PostgreSQL  
+- Supabase  
+- Firebase  
+- Vercel  
+
+### Tools & Platforms
+- Git & GitHub  
+- Docker (learning)  
+- Linux  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced backend patterns
-- Scaling SaaS products
-- AI integrations (LLMs, embeddings, OCR)
+## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahidanowar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidanowar&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-- Twitter / X: https://x.com/YOUR_HANDLE
-- LinkedIn: https://linkedin.com/in/YOUR_HANDLE
-- Portfolio: https://yourwebsite.com
+## Currently Learning
+- Backend architecture and performance optimization  
+- Scalable SaaS development  
+- AI integrations (LLMs, embeddings, OCR)  
 
 ---
 
-⭐️ Feel free to check out my repos and drop a star if something helps you!
+## Contact
+- X (Twitter): https://x.com/buildwithshahid 
+- LinkedIn: https://linkedin.com/in/shahid-anowar  
+- Portfolio: https://shahidanowar.me  
+
+---
+
+Feel free to explore my repositories. Feedback and collaboration are always welcome.
