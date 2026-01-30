@@ -44,10 +44,6 @@ I am a final year software engineering student focused on building reliable, sca
 
 ---
 
-## GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahidanowar)]
-
----
 
 ## Currently Learning
 - Backend architecture and performance optimization  
